@@ -8,6 +8,14 @@
 
 `git commit -m "branche/nom_de_la_feature: message descriptif du commit"` Ajout d'un commit avec son message descriptif.
 
+`git branch` Affiche les branches du projet
+
+`git branch nom_branche` Créer la branche nom_branche
+
+`git checkout hash_commit` permet de se placer sur un commit (sur létat du projet aprés le commit)
+
+`git checkout nom_branch` permet de se palcer sur la branche nom_branche
+
 ## Gestion de git en remote (GitHub, GitLab, BitBucket, etc)
 
 Ajout du depot (repository) distant:
