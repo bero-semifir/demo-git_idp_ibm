@@ -4,7 +4,7 @@
 
 `git add .` permet d'ajouter tous les fichiers qui ont été modifié au prochain commit.
 
-`git reset .` permet de retirer les fichier à la surveillance de git pour le prochain commit. 
+`git reset .` permet de retirer les fichier à la surveillance de git pour le prochain commit.
 
 `git commit -m "branche/nom_de_la_feature: message descriptif du commit"` Ajout d'un commit avec son message descriptif.
 
