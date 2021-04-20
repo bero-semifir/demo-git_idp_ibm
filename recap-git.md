@@ -2,9 +2,9 @@
 
 ## Gestion git en local
 
-`git add .` permet d'ajouter tous les fichiers qui ont été modifié au prochain commit.
+`git add .` permet d'ajouter tous les fichiers qui ont été modifiés au prochain commit.
 
-`git reset .` permet de retirer les fichier à la surveillance de git pour le prochain commit.
+`git reset .` permet de retirer les fichiers à la surveillance de git pour le prochain commit.
 
 `git commit -m "branche/nom_de_la_feature: message descriptif du commit"` Ajout d'un commit avec son message descriptif.
 
@@ -18,7 +18,7 @@ Par exemple:
 
 `git remote add origin https://github.com/benoitsemifir/demo-git_idp_ibm`
 
-Pour envoyer nos modif enrigistrés dans le repo *local*:
+Pour envoyer nos modifications enrigistrés dans le repository *local*:
 
 `git push nom_du_remote nom_de_la_branche_locale`
 
@@ -26,6 +26,6 @@ par exemple:
 
 `git push origin main`
 
-Il est possible de paramétrer la branhce pour toujour pousser au même endroit, ce qui vous permet de juste faire un push.
+Il est possible de paramétrer la branche pour toujour pousser au même endroit, ce qui vous permet de juste faire un push sans préciser les branches concernées.
 
 `git push --set-upstream origin main` ce qui permet de juste faire `git push` par la suite.
