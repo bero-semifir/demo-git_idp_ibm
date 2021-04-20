@@ -30,7 +30,7 @@ Pour envoyer nos modifications enrigistrés dans le repository *local*:
 
 `git push nom_du_remote nom_de_la_branche_locale`
 
-par exemple:
+Par exemple:
 
 `git push origin main`
 
