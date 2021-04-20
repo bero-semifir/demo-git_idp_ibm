@@ -2,5 +2,5 @@ initialiser git - fait
 expliquer les commits - fait
 parler du markdown
 parler des repo distants
-parler des branches
+parler des branches - fait
 montrer la collaboration avec Git et GitHub
